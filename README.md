@@ -25,9 +25,9 @@ IAM has 3 basic jobs
 2. IAM Is a globally resilient service meaning any data is secure over all AWS Regions (Can be used anywhere)<- On exam
 3. IAM lets you create 3 different types of identity objects:
 
-Users - Humans or applications that need to access your account.
-Groups - Collection of related users. ex: Dev team, finance, HR.
-Roles - Can be used by AWS Services, or for granting external access to your account.
+1. Users - Humans or applications that need to access your account.
+2. Groups - Collection of related users. ex: Dev team, finance, HR.
+3. Roles - Can be used by AWS Services, or for granting external access to your account.
 
 IAM POLICY - Allows or Denies access to AWS Services. These can be attached to users, Groups, or Roles. 
    
