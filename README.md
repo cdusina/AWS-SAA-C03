@@ -12,7 +12,7 @@
 ## AWS ACCOUNTS
 1. AWS accounts are a container for identities and AWS resources
 2. The email address initialy used for setup will be the Root user which will have unrestricted access.
-3. Other users can be added within the account which you can limit what access they have throughout the account. These are refered to as IAM users.
+3. IAM Users can be added which you can limit access.
 
 ## IAM ACCOUNT BASICS
 
@@ -24,8 +24,9 @@ IAM has 3 basic jobs
 Only give necessary access to IAM accounts. (Least privileged access).
 IAM Is a globally resilient service meaning any data is secure over all AWS Regions (Can be used anywhere)<- On exam
 
+
 IAM lets you create 3 different types of identity objects:
-1. Users - Humans or applications that need to access your account.
+1. Users - Humans or applications that need to access to your account.
 2. Groups - Collection of related users. ex: Dev team, finance, HR.
 3. Roles - Can be used by AWS Services, or for granting external access to your account.
 
