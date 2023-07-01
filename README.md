@@ -17,7 +17,7 @@
 ## IAM ACCOUNT BASICS
 
 IAM has 3 basic jobs
-1. Allows you to create, modify, and identities such as users and roles.
+1. Allows you to create, modify, and identify such as users and roles.
 2. Authenticates Identities.
 3. Authorize - Allows or denies access to certain resources.
 
@@ -31,4 +31,17 @@ IAM lets you create 3 different types of identity objects:
 3. Roles - Can be used by AWS Services, or for granting external access to your account.
 
 IAM POLICY - Allows or Denies access to AWS Services. These can be attached to users, Groups, or Roles. 
-   
+
+IAM Users can also log in through command line using access keys but not username and password.
+IAM Users can have 0,1, or 2 access keys but no more than 2.
+Acess keys can be created, deleted, made inactive, or made active.
+
+EX:
+Access key ID ADAKNNGNGABAWIGI
+Secret access key   ajdnsubfgjJDDA/dadsdsDD/DADSADddftg     < Always store this as you will only be shown it once. 
+
+Create IAM User
+Search > IAM > Users > Add users
+Then set up MFA (Multi Factor Auth), Then set up the permissions for the account.
+
+
