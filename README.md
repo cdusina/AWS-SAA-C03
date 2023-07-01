@@ -1,6 +1,6 @@
 # AWS-SAA-C03  
 
-![OSI 7 LAYER](file:///C:/Users/SEX/Desktop/download.png)
+![OSI STACK](https://github.com/cdusina/AWS-SAA-C03/assets/107001942/3d2ba948-b8c7-421c-81c9-41aa976493d5)
 
 ## Cloud computing provides
 
