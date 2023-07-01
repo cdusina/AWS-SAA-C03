@@ -1,6 +1,6 @@
 # AWS-SAA-C03  
 
-![OSI STACK](https://github.com/cdusina/AWS-SAA-C03/assets/107001942/3d2ba948-b8c7-421c-81c9-41aa976493d5)
+![OSI STACK](https://github.com/cdusina/AWS-SAA-C03/assets/107001942/af89598e-b4d3-4b82-8ee2-7cd3cb099fbc)
 
 ## Cloud computing provides
 
