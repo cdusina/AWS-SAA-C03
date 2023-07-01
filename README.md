@@ -43,5 +43,3 @@ Acess keys can be created, deleted, made inactive, or made active.
 Create IAM User
 Search > IAM > Users > Add users
 Then set up MFA (Multi Factor Auth), Then set up the permissions for the account.
-
-!
