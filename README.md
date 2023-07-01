@@ -1,4 +1,6 @@
-# AWS-SAA-C03  
+# AWS-SAA-C03
+
+These are my personal notes from Adrian Cantrill's (SAA-C03) course.Learning Aids from aws-sa-associate-saac03. There may be errors, so please purchase his course to get the original content and show support (https://learn.cantrill.io.)
 
 ![OSI STACK](https://github.com/cdusina/AWS-SAA-C03/assets/107001942/af89598e-b4d3-4b82-8ee2-7cd3cb099fbc)
 
